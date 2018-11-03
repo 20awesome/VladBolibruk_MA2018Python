@@ -4,6 +4,6 @@
 
 
 Git commands
-git add .
-git commit -m 'My commit'
-git push
+* git add .
+* git commit -m 'My commit'
+* git push
