@@ -34,6 +34,8 @@ Project structure
 
 
 # [Hometasks](https://github.com/20awesome/VladBolibruk_MA2018Python/issues)
+# [YouTube](https://www.youtube.com/playlist?list=PL7Tk1QIFIqKo0RS2SjduRCO7YMEfzqBfC)
+
 
 
 # Useful links
