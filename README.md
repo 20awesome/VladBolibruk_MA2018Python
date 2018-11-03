@@ -2,7 +2,7 @@
 
 Masters Academy «Python» courses project for season 2018/2019
 -----------------------------------------------------------------------
-[![Join the chat at https://t.me/joinchat/](https://d22dkb9kbinceo.cloudfront.net/chat-DaW8.svg)](https://t.me/joinchat/)
+[![Join the chat at https://t.me/joinchat/F0kVORKT_Nxs6v-xBGan_A](https://d22dkb9kbinceo.cloudfront.net/chat-DaW8.svg)](https://t.me/joinchat/F0kVORKT_Nxs6v-xBGan_A)
 
 
 # Terms and conditions
