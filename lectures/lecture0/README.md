@@ -10,7 +10,7 @@ Git commands
 
 
 Python tutorial
-*http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb
+* http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb
 
 
 Anaconda install manual
