@@ -18,7 +18,7 @@ http://www.codeskulptor.org/#examples-collisions_and_reflections.py
 task make the ball bounce off the right wall
 
 we have to hit the keys a lot at the 
-http://www.codeskulptor.org/#examples-collisions_and_reflections.py
+http://www.codeskulptor.org/#examples-position_control.py
 
 new version update velocity with keys
 http://www.codeskulptor.org/#examples-velocity_control.py
