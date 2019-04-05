@@ -1,18 +1,25 @@
-# Visualization with Seaborn
+# Data Science. Аналіз даних.
 
-[Spotting problems using graphics and visualization](https://livebook.manning.com/#!/book/exploring-data-science/chapter-1/44)
+Презентація лекції доступна в файлі **"Data Science. Data analysis.pptx"**.
 
-[Data Visualization with Python and Seaborn — Part 0](https://medium.com/@neuralnets/statistical-data-visualization-series-with-python-and-seaborn-for-data-science-5a73b128851d)
+[Exploring data](https://livebook.manning.com/#!/book/exploring-data-science/chapter-1/1) Розділ 3.1 повністю.
 
-[Data Visualization with Python and Seaborn — Part 1: Loading Datasets](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-1-29c9478a8700)
+[Очистка і приведення](https://www.springboard.com/blog/data-wrangling/) даних до потрібного формату.
 
-[Data Visualization with Python and Seaborn — Part 2: Controlling Aesthetics](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-2-82b0877860aa)
+[Трансформація даних](https://medium.com/vickdata/four-feature-types-and-how-to-transform-them-for-machine-learning-8693e1c24e80)
 
-[Data Visualization with Python and Seaborn — Part 3: Color Palettes](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-3-69647c19bf2)
+[Коефіцієнт кореляції Пірсона](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/correlation-coefficient-formula/) 
+і застосування його до атрибутів
 
-[Data Visualization with Python and Seaborn — Part 4: LM Plot & Reg Plot](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130)
+[one-hot кодування](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f) категоріальних атрибутів
 
-[Data Visualization with Python and Seaborn — Part 5: Scatter Plot & Joint Plot](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-5-scatter-plot-joint-plot-d7312164dc32)
 
-[Data Visualization with Python and Seaborn — Part 6: Additional Linear Data (Regression) Plots](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-6-additional-linear-data-regression-plots-7a6fd469cea6)
 
+### Додаткові матеріали
+[Python for data science : Part 1](https://towardsdatascience.com/python-for-data-science-part-1-759524eb493b)
+
+[Python for data science : Part 2](https://towardsdatascience.com/python-for-data-science-part-2-373d6473fa40)
+
+[Python for data science : Part 3](https://towardsdatascience.com/python-for-data-science-part-3-be9b08660af9)
+
+[Python for data science : Part 4](https://towardsdatascience.com/python-for-data-science-part-4-6087cb811a29)
